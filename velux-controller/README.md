@@ -1,6 +1,6 @@
 # ESPHome Velux Controller
 
-![finished product](media/result.jpg)
+This project has been edited to include USB C for power. Note that you must either use your own custom power supply, or use a USB A to C cable to get the 5V as it's just a connector and doesn't include any PD system
 
 This project modifies a Velux KLI 310 or similar remote control to integrate with home assistant.
 It replaces the back panel of the original remote, powers it from the wall, and can report state back to home assistant even if you press the physical buttons.
