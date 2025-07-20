@@ -1,5 +1,1 @@
-This is a loose collection of my esphome projects, including pcbs, schematics, CAD drawings and firmware where applicable.
-
-Most don't have BOMs or assembly instructions unfortunately, as it would just eat up too much time.
-
-Open an issue if you have questions.
+This repo is for changes done to the Velux controller. USB-C has been added in place of the barrel plug
