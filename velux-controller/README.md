@@ -40,9 +40,9 @@ It runs on anywhere between 5V and 12V, though 5V is preferred.
 - 2x PTS820 tactile switch
 	([DigiKey](https://www.digikey.com/en/products/detail/cit-relay-and-switch/CS1213AGF160/16607723),
 	[AliExpress](https://www.aliexpress.com/item/1005004307665595.html))
-- 1x DC-005 jack
-	([DigiKey](https://www.digikey.com/en/products/detail/tensility-international-corp/54-00166/10459294),
-	[AliExpress](https://www.aliexpress.com/item/4001206395694.html))
+- 1x USB4125 - USB Charging Connector Type C Horizontal 
+	([DigiKey](https://www.digikey.com/en/products/detail/gct/USB4125-GF-A/13547388),
+	[AliExpress](https://www.aliexpress.us/item/3256808142228900.html?gatewayAdapt=glo2usa4itemAdapt))
 - 1x male pin header 1x4 2.54mm pitch
 	([AliExpress](https://www.aliexpress.com/item/4000857385112.html))
 - 1x 2Pin JST-XH connector pair, right angle
