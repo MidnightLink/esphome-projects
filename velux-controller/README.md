@@ -9,6 +9,9 @@ Installing it on the remote only requires removing the back and batteries, solde
 
 It runs on anywhere between 5V and 12V, though 5V is preferred.
 
+
+**Photos not of new USB C Version**
+
 ![interior view](media/interior.jpg)
 
 ## Bill of Materials
